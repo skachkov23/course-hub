@@ -195,6 +195,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - `npm run build` - Build for production
 - `npm test` - Run test suite
 - `npm run eject` - Eject from Create React App
+- `deploy` - Building your demo to GH Pages
 
 ### Contributing
 1. Fork the repository
