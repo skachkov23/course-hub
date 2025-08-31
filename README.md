@@ -1,5 +1,6 @@
 # 📚 CourseHub
 A modern React-based online learning platform where users can browse, purchase, and watch educational courses. Built with TypeScript, Redux Toolkit, and features a clean, responsive design with dark theme support.
+- Click here to see [Preview](https://skachkov23.github.io/course-hub/)
 
 ## ✨ Features
 
